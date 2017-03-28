@@ -22,6 +22,7 @@ public class example_class {
         if (returnValue == JFileChooser.APPROVE_OPTION) {
           File selectedFile = finder.getSelectedFile();
           System.out.println(selectedFile.getPath());
+        
         }
 	}	
 
