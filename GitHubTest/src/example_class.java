@@ -23,6 +23,8 @@ public class example_class {
           File selectedFile = finder.getSelectedFile();
           System.out.println(selectedFile.getPath());
         
+          
+          System.out.println("Hi");
         }
 	}	
 
